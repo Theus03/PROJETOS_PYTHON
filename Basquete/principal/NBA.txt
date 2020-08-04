@@ -1,0 +1,5 @@
+Los Angeles Lakers;Los Angeles, Calif�nia, EUA
+Los Angeles Clippers;Los Angeles, Calif�rnia, EUA
+New York Knicks;Nova Iorque, New York, EUA
+Houston Rockets;Houston, Texas, EUA
+Boston Celtics;Boston, Massachusets, EUA
